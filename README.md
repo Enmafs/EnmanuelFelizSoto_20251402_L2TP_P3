@@ -100,7 +100,7 @@ Ver tabla comparativa en el README principal.
 | Recurso | Enlace |
 |---------|--------|
 | Repositorio Principal | [Enmafs/NetSec](https://github.com/Enmafs/NetSec) |
-| Script de configuración | [`EnmanuelFelizSoto_2025-1402_L2TP.txt`](./EnmanuelFelizSoto_2025-1402_L2TP.txt) |
+| Script de configuración | [`EnmanuelFelizSoto_20251402_L2TP.txt`](./EnmanuelFelizSoto_20251402_L2TP.txt) |
 | Video demostración | 🎬 [Aquí](https://www.youtube.com/watch?v=-JKA2c4Z7Uo) |
 
 ---
