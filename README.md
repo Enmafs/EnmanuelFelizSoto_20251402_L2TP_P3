@@ -23,7 +23,8 @@ VPN de acceso remoto (Client-to-Site) para usuarios individuales. Utiliza L2TP p
 
 ## 🗺️ Topología
 
-> 📸 **[INSERTAR CAPTURA DE TOPOLOGÍA AQUÍ]**
+> 📸 <img width="1376" height="733" alt="image" src="https://github.com/user-attachments/assets/e246d7e9-9be4-42c2-a61b-561599650346" />
+
 
 **Entorno:** PNetLab (Proxmox VE) — Cisco IOL ↔ Host Físico (Windows 10/11)  
 **Peers:** Cliente Nativo Windows (10.0.0.153) ↔ R1 Gateway (10.0.0.173)
@@ -80,14 +81,6 @@ show crypto isakmp sa
 show crypto ipsec sa
 show vpdn
 show ip int br
-
----
-
-📸 Capturas de Verificación
-📸 [INSERTAR CAPTURA: show crypto isakmp sa]
-📸 [INSERTAR CAPTURA: show vpdn]
-📸 [INSERTAR CAPTURA: ipconfig de Windows]
-📸 [INSERTAR CAPTURA: ping exitoso]
 
 ---
 
